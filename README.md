@@ -76,15 +76,13 @@ This product will be free.
 
 ## 5 Product Features
 
-    This program should show dashboard displaying histograms of data collected from ventilators in the NICU
-    It needs to show data for kids under 36 weeks of age and on O2
-    It should show histograms of data for a variable amount of time. (1hr, 2hrs, 4hrs, current shift, 8 hrs, 12hrs, 24 hrs, 48 hrs, 72hrs)
-    Dashboard needs to accomodate 50 Histograms, but there could be up to 90 beds to tack
-    Dashboard should enable the ability to locate bad histograms and identify which bed they represent.
-    The histograms should be displayed in the following order: Low sat bad histograms, the high sat bad histograms, then good histograms
-    The dashboard should be made up of pages of 6-8 histograms
-    If someone clicks on a histogram image, the image is enlarged
-    The user should be able to go back in time and grab data for events from a long time ago (exported to a file type, not creating histograms).
+### 5.1 Dashboard
+
+This program should show dashboard displaying histograms of data collected from ventilators in the NICU.  It should contain pages of 6-8 histograms sorted by low sat bad histograms, high sat bad histograms, followed by normal histograms.
+
+### 5.2 Histograms
+
+The histograms will show a histogram of O2 data for kids under 36 weeks of age and on O2 from the database.  The user should have the option to customize the timeframe for the data.  The histograms will also display which bed they are from.  When clicked on, the histogram will enlarge in size.
 
 ## 6 Exemplary Use Cases
 
