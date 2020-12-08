@@ -58,16 +58,33 @@ This product, while yet a proof-of-concept, will eventually by integrated into t
 
 ### 4.3 Summary of Capabilities
 
+| Feature | Benefit |
+| ----- | ---- |
+| Dashboard | Health care workers can look at all the O2 data from one place, instead of their current inefficient workflow |
+| Histograms | The program will make histrograms of O2 levels for babies that fit the criteria, so that nurses can look at all of them in one place, versus going around to each bed to look at similar histograms | 
+| Time variability | The user can set which time period they want to create histograms for, or even export data from a long time ago to a different file format to use in research | 
 
 ### 4.4 Assumptions and Dependencies
 
+We are assuming that the hospital stores their healthcare data in some sort of SQL database.
+We are assuming that we do not need to worry about HIPPA requirements right now.
+
 ### 4.5 Cost and Pricing
+
+Our budget is some GCP credits.
+This product will be free.
 
 ## 5 Product Features
 
-### 5.1 Hatsune Miku Text to Speech
-
-### 5.2 Hatsune Miku Search
+    This program should show dashboard displaying histograms of data collected from ventilators in the NICU
+    It needs to show data for kids under 36 weeks of age and on O2
+    It should show histograms of data for a variable amount of time. (1hr, 2hrs, 4hrs, current shift, 8 hrs, 12hrs, 24 hrs, 48 hrs, 72hrs)
+    Dashboard needs to accomodate 50 Histograms, but there could be up to 90 beds to tack
+    Dashboard should enable the ability to locate bad histograms and identify which bed they represent.
+    The histograms should be displayed in the following order: Low sat bad histograms, the high sat bad histograms, then good histograms
+    The dashboard should be made up of pages of 6-8 histograms
+    If someone clicks on a histogram image, the image is enlarged
+    The user should be able to go back in time and grab data for events from a long time ago (exported to a file type, not creating histograms).
 
 ## 6 Exemplary Use Cases
 
