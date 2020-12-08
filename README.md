@@ -40,11 +40,24 @@ This section provides an overview of the vision document: its contents and its p
 
 ## 4 Product Overview
 
+This section will provide a high level overview of the solution capabilities of our proof-of-concept dashboard.
+
 ### 4.1 Product Perspective
+
+This product, while yet a proof-of-concept, will eventually by integrated into the EPIC Healthcare Data Management Platform.  The interfaces for this move are currently unknown, and those that come after us will have to manage the move to EPIC.  Until then, this project is a stand alone application with an attached SQL database to store test data.
 
 ### 4.2 Product Position Statement
 
+|For | Healthcare workers in the NICU at The Children's Hospital |
+|----|----|
+|Who | Want a dashboard to show O2 levels of babies under 36 weeks on O2 to increase workflow efficiency of the nurses|
+| The proof-of-concept dashboard | Is a stand-alone application|
+| That | Will increase efficiency of diagnoses of BPD and make the workflows more efficient |
+| Unlike | the current inefficient workflow. |
+| Our product | will save time and resources for the hospital compared to the current method |
+
 ### 4.3 Summary of Capabilities
+
 
 ### 4.4 Assumptions and Dependencies
 
