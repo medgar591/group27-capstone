@@ -80,11 +80,31 @@ This section provides an overview of the vision document: its contents and its p
 
 ### 8.1 User Manual
 
+This project will eventually require a complete user manual for non-technical hospital staff who will be using the software. As the dashboard is small, this should only be a few pages long and have complete descriptions of the menus and the features.
+
+It will be distributed as a PDF which can both be accessed in the files near the dashboard and from the dashboard itself, under a HELP section.
+
 ### 8.2 Online Help
+
+Both for security and simplicity, this software should not be connected to the internet and because this, will not offer any Online Help other than what is found within the software itself.
 
 ### 8.3 Installation Guides, Configuration, “Read Me” File
 
-### 8.4 Labeling and Packaging
+Installation of this software should be simple, involving simply running a single executable. From there, the process should either be automatic or call up a wizard when users need to make selections.
+
+There needs to be configuration options for acquiring the data that the dashboard will run, however, which may be set up during installation or at a later date.
+
+The "Read Me" file should include installation instructions, guidance on setting up data acquisition, and a list of currently known bugs.
+
+### 8.4 Documentation
+
+As this project is one that will be done over the course of years by multiple teams, it is critical that excellent documentation be upheld. In addition to clear and complete requirements included with this project, we will also need to include a document explaining the high-level structure of the dashboard.
+
+All of the code written for this project must include useful and complete documentation as well.
+
+### 8.5 Labeling and Packaging
+
+As this project is a dashboard, it will require a cohesive and clean UI. For the icon, it should also be used on the dashboard as well.
 
 ## 9 Glossary
 
