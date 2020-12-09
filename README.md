@@ -16,13 +16,18 @@ This section provides an overview of the vision document: its contents and its p
 
 ### 1.1 Purpose
 
+This document outlines the process of coming up with a proof-of-concept dashboard for displaying histograms of data collected from ventilators in the NICU in EPIC for nurses to determine if certain infants' (under 36 weeks of age) oxygen saturation is too high.
+
 ### 1.2 Solution Overview
 
-#### 1.2.1 Hatsune Miku Singing the Text on The Webiste
+This document outlines the implementation of this dashboard.
 
-#### 1.2.2 Hatsune Miku as a Search Bar
+Currently, there are Phillips Monitors that record oxygen saturation data for each infant. The hospital does not use EPIC but is planning to transfer to the system in the near future, so the proof of concept would be able to integrate with this software. The implementation would take the data from the monitors and track it into an application, where it would display graphs and clearly show which infants have oxygen levels above (and below) the safe levels. This application must be accessible from a desktop computer.
+
 
 ### 1.3 References
+
+The Using Health Information Data Strategies to Support Efforts of Sustainability sent to us by Dr. Jabrzemski, as well as Brandon Kuehne and Kimberly Ernst, who helped determine some requirements for the project
 
 ## 2 User Description
 
