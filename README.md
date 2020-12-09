@@ -88,3 +88,12 @@ This section provides an overview of the vision document: its contents and its p
 
 ## 9 Glossary
 
+BPD - Bronchopulmonary Dysplasia; a chronic lung issue that can affect newborns, particularly those on supplemental oxygen
+
+HIPAA - Health Insurance Portability and Accountability Act; law requires certain standards be met when dealing with health data
+
+Histograms - A form of bar graph showing trends over time
+
+NICU - Neonatal Intensive Care Unit
+
+O2 - Oxygen
