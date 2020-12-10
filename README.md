@@ -53,6 +53,11 @@ Currently there is no known competition for this project, as the hospital would 
 
 ## 3 Stakeholders
 
+| Stakeholder | Involvement | Needs |
+| ---- | ---- | ----|
+| Nurse | Uses the system constantly to evaluate vitals | Fast, easy access to data |
+| Supervisor | Uses it occasionally to determine that NICU patient have good Oxygen Saturation over time | Long-term visualization of data, to see which patients have had bad oxygen saturation |
+
 ## 4 Product Overview
 
 ### 4.1 Product Perspective
