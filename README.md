@@ -86,7 +86,7 @@ The histograms will show a histogram of O2 data for kids under 36 weeks of age a
 
 ## 6 Exemplary Use Cases
 
-#### 1 
+#### 1
 Dashboard of histogram can help medical staff track many kids in a very less amount of time. This will help to track any kid who needs more attention than others and make it more efficient.
 
 #### 2 
