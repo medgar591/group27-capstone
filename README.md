@@ -99,19 +99,33 @@ The system can aslo be used to find records that are not in the dashboard, for e
 
 ### 7.1 Usability
 
+Dashboard will contain 50 histograms, with each page accomodating 6-8 histograms.
+
 ### 7.2 Reliability
+
+Histograms should display oxygen level data in different periods of time, it should be ready with all data collected when needed by medical staff.
 
 ### 7.3 Performance
 
+The program should be fast but accurate with the results of data and histograms, and should have ability to deal with problems displaying as it be a huge factor in an emergency.
+
 ### 7.4 Supportability
+
+The access to the program should be available to authorized medical staff whenever needed.
 
 ### 7.5 Other Requirements
 
 #### 7.5.1 Applicable Standards
 
+The program should comply with the standards of the hospital, NH, and HIPPA.
+
 #### 7.5.2 System Requirements
 
+To make it secure, the program should only run on authorized hospital networks, and able to connect to other conected software of the hospital.
+
 #### 7.5.3 Licensing, Security, and Installation
+
+In order to avoid any legal or privacy issues, the software will be licensed as needed.
 
 ## 8 Documentation Requirements
 
